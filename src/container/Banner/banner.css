@@ -1,0 +1,38 @@
+.banner{
+    position: relative;
+    height: 500px;
+    background-position: "center center";
+    background-size: cover;
+    object-fit: contain;
+}
+
+.banner__content{
+ padding-top: 180px;
+ padding-left: 100px;
+ padding-right: 100px;
+}
+
+.banner__button{
+    background-color: #111;
+    color: #fff;
+    font-size: large;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-color: #111;
+    margin-right: 15px;
+
+}
+
+.banner__button:hover{
+    color: #111;
+    background-color: #fff;
+    transition: 0.8s;
+}
+
+.banner__title{
+    font-weight: 700;
+    font-size: 45px;
+}
