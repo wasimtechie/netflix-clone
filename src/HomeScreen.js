@@ -8,7 +8,7 @@ const HomeScreen = () => {
     <div className="homescreen">
       <Navbar />
       <Banner />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };
