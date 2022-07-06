@@ -25,7 +25,7 @@ const Banner = () => {
           facere, sit adipisci accusantium, vel ipsa error dolore aliquam iste
           repudiandae obcaecati labore possimus sequi hic accusamus, esse a.
           Provident, debitis`,
-            150
+            145
           )}
         </p>
       </div>
